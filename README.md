@@ -1,1 +1,3 @@
 # tonamore
+
+![](doc/Sharing.jpg)
